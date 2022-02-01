@@ -1,0 +1,16 @@
+{
+  "name": "dictionaryproject",
+  "version": "1.0.0",
+  "description": "Online Dictionary",
+  "main": "Dictionary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samba Sallah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql": "github:mysqljs/mysql",
+    "pug": "^3.0.2"
+  }
+}
